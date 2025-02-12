@@ -1,0 +1,9 @@
+
+.pokemon-form {
+    background-color: bisque;
+}
+.pokemon-form form {
+    display: flex;
+    flex-direction: column;
+}
+

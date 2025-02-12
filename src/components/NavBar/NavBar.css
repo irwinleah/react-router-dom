@@ -1,0 +1,8 @@
+.navbar {
+    background-color: aquamarine;
+}
+
+.navbar ul {
+    list-style: square;
+    background-color: var(--main-bg-color);
+}
